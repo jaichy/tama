@@ -36,7 +36,7 @@ set(TAMA_RUN_BUILD OFF CACHE BOOL "" FORCE)
 
 FetchContent_Declare(
 	tama
-	GIT_REPOSITORY https://github.com/501urchin/tama.git
+	GIT_REPOSITORY https://github.com/jaichy/tama.git
 	GIT_TAG        main
 )
 
